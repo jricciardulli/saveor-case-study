@@ -1,0 +1,17 @@
+# Local operating-system/editor files
+.DS_Store
+._*
+Thumbs.db
+.vscode/
+.idea/
+
+# Keep private configuration and raw capture material out of this repository
+.env
+.env.*
+*.pem
+*.key
+raw/
+raw-captures/
+private-notes/
+*.mov
+*.MOV
