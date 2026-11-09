@@ -15,3 +15,5 @@ raw-captures/
 private-notes/
 *.mov
 *.MOV
+
+/docs/publishing.md
