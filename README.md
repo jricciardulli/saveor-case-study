@@ -7,7 +7,7 @@ I am SaveOr’s **CTO, product creator, and current sole maintainer**. I own pro
 | Product scale | As of November 2026 |
 | --- | ---: |
 | Users | 1,500+ |
-| Business partners | 72 |
+| Business partners | 75+ |
 | Paying subscribers | More than 500 |
 
 Figures are reported by the maintainer; they are product totals, not benchmark sample sizes.
